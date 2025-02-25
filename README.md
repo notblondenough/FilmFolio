@@ -7,7 +7,7 @@
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/nikhilsaini113/MovieD.git
+   git clone https://github.com/notblondenough/FilmFolio.git
    ```
 
 2. Start the server:
